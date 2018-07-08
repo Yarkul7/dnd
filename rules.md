@@ -4,7 +4,7 @@ title: Regeln
 ---
 
 ## Regelnbücher
-* D&D Player's Handbook 5ed
+* D&D Player's Handbook 5th Edition
 
 
 ## Optionale Regeln
