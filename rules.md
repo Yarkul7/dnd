@@ -9,7 +9,7 @@ title: Regeln
 
 ## Optionale Regeln
 * "Customize Ability Scores", Seite 13
-* Multiclassing
-* Feats
+* Multiclassing, Seite 163
+* Feats, Seite 165
 
 
