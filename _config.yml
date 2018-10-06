@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://dnd.hauser.world"
+url: "https://dnd.hauser.world"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -26,7 +26,7 @@ navbar-links:
   Start: ""
   Regeln: "rules"
   Welt: "world"
-  # Charaktere: "characters"
+  Helden: "pcs"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -97,7 +97,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "crimdrac.github.io/dnd"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "dnd.hauser.world"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
