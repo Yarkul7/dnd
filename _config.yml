@@ -194,6 +194,7 @@ prose:
     - /css
     - /img
     - /js
+  siteurl: "https://dnd.hauser.world"
   metadata:
     _posts:
       - name: "layout"
