@@ -193,9 +193,9 @@ prose:
     - .gitattributes
     - CHANGELOG.md
     - README.md
-    - *.html
-    - *.xml
-    - *.yml
+    - '*.html'
+    - '*.xml'
+    - '*.yml'
     - /_layouts
     - /_includes
     - /css
