@@ -185,10 +185,17 @@ prose:
   rooturl: ''
   media: 'img'
   ignore:
-    - 404.html
     - LICENSE
-    - feed.xml
-    - _config.yml
+    - CNAME
+    - Dockerfile
+    - favicon.ico
+    - .gitignore
+    - .gitattributes
+    - CHANGELOG.md
+    - README.md
+    - *.html
+    - *.xml
+    - *.yml
     - /_layouts
     - /_includes
     - /css
