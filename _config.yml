@@ -187,6 +187,8 @@ prose:
   ignore:
     - LICENSE
     - CNAME
+    - Gemfile
+    - Gemfile.lock
     - Dockerfile
     - favicon.ico
     - .gitignore
